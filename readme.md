@@ -1,0 +1,1 @@
+Scripts utilizados no Curso de Git [iniciante] da Alura.
